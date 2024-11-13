@@ -51,8 +51,8 @@ Copy code
 "EmailSettings": {
     "Host": "smtp.your-email-provider.com",
     "Port": 587,
-    "Username": "your-email@example.com",
-    "Password": "your-email-password"
+    "Username": "superadmin@gmail.com",
+    "Password": "123Pa$$word!"
 }
 
 Build the Project:
